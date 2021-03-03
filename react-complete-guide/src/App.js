@@ -73,7 +73,7 @@ class App extends Component {
           })}
         </div>
       );
-      style.backgroundColor = 'red'
+      style.backgroundColor = 'orange'
     }
     return (
       <div className="App">
